@@ -68,7 +68,7 @@ Flask==1.1.2
 #folium @ file:///home/conda/feedstock_root/build_artifacts/folium_1615570722684/work
 #fsspec @ file:///tmp/build/80754af9/fsspec_1602684995936/work
 future==0.18.2
-GDAL==3.2.1
+#GDAL==3.2.1
 #geeadd @ file:///home/conda/feedstock_root/build_artifacts/geeadd_1615792202549/work
 #geemap @ file:///home/conda/feedstock_root/build_artifacts/geemap_1615220642508/work
 geocoder==1.38.1
