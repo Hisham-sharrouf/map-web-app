@@ -81,16 +81,6 @@ geocoder==1.38.1
 
 glob2==0.7
 gmpy2==2.1.0b1
-google-api-core @ file:///home/conda/feedstock_root/build_artifacts/google-api-core-split_1614957104943/work
-google-api-python-client @ file:///home/conda/feedstock_root/build_artifacts/google-api-python-client_1605727368232/work
-google-auth @ file:///tmp/build/80754af9/google-auth_1614883971544/work
-google-auth-httplib2 @ file:///home/conda/feedstock_root/build_artifacts/google-auth-httplib2_1601483325475/work
-google-cloud-core @ file:///tmp/build/80754af9/google-cloud-core_1613414810663/work
-google-cloud-storage @ file:///tmp/build/80754af9/google-cloud-storage_1615488528930/work
-google-crc32c @ file:///D:/bld/google-crc32c_1611954423366/work
-google-resumable-media @ file:///home/conda/feedstock_root/build_artifacts/google-resumable-media_1608141079349/work
-googleapis-common-protos @ file:///D:/bld/googleapis-common-protos-feedstock_1604414944715/work
-googledrivedownloader @ file:///home/conda/feedstock_root/build_artifacts/googledrivedownloader_1592959320145/work
 
 
 HeapDict==1.0.1
