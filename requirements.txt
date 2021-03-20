@@ -36,7 +36,7 @@ click==7.1.2
 click-plugins==1.1.1
 #cligj @ file:///home/conda/feedstock_root/build_artifacts/cligj_1605902088619/work
 #cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
-clyent==1.2.2
+#clyent==1.2.2
 #colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
 colour==0.1.5
 comtypes==1.1.7
