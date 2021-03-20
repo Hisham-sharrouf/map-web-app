@@ -242,7 +242,7 @@ Shapely==1.7.1
 simplegeneric==0.8.1
 #simplejson @ file:///D:/bld/simplejson_1610147289159/work
 #singledispatch @ file:///tmp/build/80754af9/singledispatch_1602523705405/work
-sip==4.19.13
+#sip==4.19.13
 #six @ file:///C:/ci/six_1605187374963/work
 snowballstemmer==2.0.0
 snuggs==1.4.7
