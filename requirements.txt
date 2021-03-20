@@ -1,6 +1,6 @@
 
 
-StringIO
+#StringIO
 ee
 geemap==0.8.12
 
