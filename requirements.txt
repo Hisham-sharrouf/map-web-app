@@ -1,7 +1,7 @@
 
 
 #StringIO
-ee
+ee==0.1.256
 geemap==0.8.12
 
 ipywidgets==7.5.1
