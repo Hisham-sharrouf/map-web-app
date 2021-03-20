@@ -1,5 +1,7 @@
-ee
+
 io
+StringIO
+ee
 geemap==0.8.12
 
 ipywidgets==7.5.1
