@@ -230,7 +230,7 @@ ratelim==0.1.6
 #requests @ file:///tmp/build/80754af9/requests_1592841827918/work
 #rope @ file:///tmp/build/80754af9/rope_1602264064449/work
 #rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1614171254180/work
-Rtree==0.9.4
+#Rtree==0.9.4
 ruamel-yaml==0.15.87
 #ruamel.yaml.clib @ file:///D:/bld/ruamel.yaml.clib_1610147058775/work
 scikit-image==0.17.2
